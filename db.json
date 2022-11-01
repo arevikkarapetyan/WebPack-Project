@@ -1,0 +1,26 @@
+{
+    "todos": [
+      {
+        "title": "JS",
+        "isComplete": false,
+        "id": 1
+      },
+      {
+        "title": "TS",
+        "isComplete": false,
+        "id": 2
+      },
+      {
+        "title": "CSS",
+        "isComplete": false,
+        "id": 3
+      }
+    ],
+    "history": [
+      {
+        "title": "Node JS",
+        "id": 1
+      }
+    ]
+  }
+  
